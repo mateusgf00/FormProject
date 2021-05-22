@@ -1,0 +1,45 @@
+body {
+    background-color: darkviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+div.mainDiv{
+    padding: 5% 3%;
+    margin: 30px 30% 30px 30%;
+    border-radius: 10px;
+    align-items: center;
+    display: block;
+    background-color: dodgerblue;
+}
+
+h1{
+    text-align: center;
+}
+
+div.divForm{
+    text-align: left;
+    padding-right: 10%;
+    width: 100%;
+}
+
+input{
+    border-radius: 8px;
+    padding: 8px;
+    width: 100%;
+    margin: 0px 0px 30px 0px;
+    border-color: indigo;
+    border-width: 1px;
+}
+
+p{
+    margin: 5px;
+}
+
+select{
+    border-radius: 8px;
+    padding: 8px;
+    width: 100%;
+    margin: 0px 0px 30px 0px;
+    border-color: indigo;
+    ;
+}
