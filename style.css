@@ -49,11 +49,15 @@ input.radio{
 label{
     display: flex;
 }
-p.normaly{
+div.normaly{
     display: flex;
+    float: left;
+    margin-right: 8px;
 }
-p.smaller{
+div.divSmaller{
     font-size:13px;
+    float: left;
+    vertical-align: bottom;
 }
 p{
     margin: 5px;
