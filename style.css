@@ -1,0 +1,64 @@
+body {
+    background-color: darkviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+div.mainDiv{
+    padding: 5% 3%;
+    margin: 30px 30% 30px 30%;
+    border-radius: 10px;
+    align-items: center;
+    display: block;
+    background-color: dodgerblue;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+div.divForm{
+    text-align: left;
+    padding-right: 10%;
+    width: 100%;
+}
+
+div.divRadio{
+    margin-bottom: 30px;
+}
+
+input.inputText, select{
+    border-radius: 8px;
+    padding: 8px;
+    width: 100%;
+    margin-bottom:30px;
+    border-color: indigo;
+    border-width: 1px;
+    box-sizing: content-box;
+
+}
+
+input.radio{
+    text-align: left;
+    display: inline-block;
+    margin-right: 0.625rem;
+    min-height: 1.25rem;
+    min-width: 1.25rem;
+    margin-bottom: 2px;
+}
+
+label{
+    display: flex;
+}
+div.normaly{
+    display: flex;
+    float: left;
+    margin-right: 8px;
+}
+div.divSmaller{
+    font-size:13px;
+    float: left;
+    vertical-align: bottom;
+}
+p{
+    margin: 5px;
+}
